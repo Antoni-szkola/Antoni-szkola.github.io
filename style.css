@@ -47,6 +47,11 @@ img {
     border: 1px solid white;
 }
 
+.opis {
+    border: 1px solid white;
+    padding: 5px;
+}
+
 .image {
     border: 1px solid white;
     margin: 10px;
